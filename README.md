@@ -1,5 +1,4 @@
 # testingrepo
 Testrep
 
-
-https://www.computingsecrets.com/
+[Latest Computing Articles](https://www.computingsecrets.com/)
